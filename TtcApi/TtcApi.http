@@ -1,0 +1,6 @@
+@TtcApi_HostAddress = http://localhost:5079
+
+GET {{TtcApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

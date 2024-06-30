@@ -1,0 +1,612 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\c#\\TtcApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\controllers\\shipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\controllers\\shipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\repository\\ishiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\repository\\ishiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\controllers\\overviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\controllers\\overviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\data\\ttccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\data\\ttccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\repository\\veiligheidschecklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\repository\\veiligheidschecklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\controllers\\veiligheidschecklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\controllers\\veiligheidschecklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\dtos\\veiligheidschecklistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\dtos\\veiligheidschecklistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\models\\veiligheidschecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\models\\veiligheidschecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\controllers\\statusladingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\controllers\\statusladingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\dtos\\terminalregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\dtos\\terminalregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\dtos\\shipregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\dtos\\shipregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\models\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\models\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\models\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\models\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\controllers\\terminalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\controllers\\terminalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\repository\\terminalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\repository\\terminalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\repository\\istatusladingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\repository\\istatusladingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\models\\statuslading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\models\\statuslading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\repository\\ladingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\repository\\ladingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\repository\\iladingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\repository\\iladingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\models\\lading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\models\\lading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\dtos\\statusladingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\dtos\\statusladingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\repository\\statusladingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\repository\\statusladingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\dtos\\ladingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\dtos\\ladingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\controllers\\ladingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\controllers\\ladingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\c#\\TtcApi backup\\TtcApi\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\dtos\\registerterminaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\dtos\\registerterminaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\dtos\\registershipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\dtos\\registershipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\repository\\iterminalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\repository\\iterminalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\repository\\shiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\repository\\shiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\migrations\\20240629094333_removeshipandterminalfromchecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\migrations\\20240629094333_removeshipandterminalfromchecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|d:\\code\\c#\\ttcapi\\ttcapi\\migrations\\20240629073839_addidentityandupdatemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B9B47-D838-4FEC-9827-664E9DABBD8E}|TtcApi\\TtcApi.csproj|solutionrelative:ttcapi\\migrations\\20240629073839_addidentityandupdatemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IShipRepository.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\IShipRepository.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Repository\\IShipRepository.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\IShipRepository.cs",
+              "RelativeToolTip": "TtcApi\\Repository\\IShipRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:35:38.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StatusLadingController.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Controllers\\StatusLadingController.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Controllers\\StatusLadingController.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Controllers\\StatusLadingController.cs",
+              "RelativeToolTip": "TtcApi\\Controllers\\StatusLadingController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAiwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:37:46.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VeiligheidsChecklist.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Models\\VeiligheidsChecklist.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Models\\VeiligheidsChecklist.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Models\\VeiligheidsChecklist.cs",
+              "RelativeToolTip": "TtcApi\\Models\\VeiligheidsChecklist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T09:51:16.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VeiligheidsChecklistController.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Controllers\\VeiligheidsChecklistController.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Controllers\\VeiligheidsChecklistController.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Controllers\\VeiligheidsChecklistController.cs",
+              "RelativeToolTip": "TtcApi\\Controllers\\VeiligheidsChecklistController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAiwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:36:10.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VeiligheidsChecklistDto.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Dtos\\VeiligheidsChecklistDto.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Dtos\\VeiligheidsChecklistDto.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Dtos\\VeiligheidsChecklistDto.cs",
+              "RelativeToolTip": "TtcApi\\Dtos\\VeiligheidsChecklistDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA4wB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T09:51:27.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShipController.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Controllers\\ShipController.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Controllers\\ShipController.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Controllers\\ShipController.cs",
+              "RelativeToolTip": "TtcApi\\Controllers\\ShipController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAADwv1QAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:29:42.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OverviewController.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Controllers\\OverviewController.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Controllers\\OverviewController.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Controllers\\OverviewController.cs",
+              "RelativeToolTip": "TtcApi\\Controllers\\OverviewController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:32:24.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240629094333_RemoveShipAndTerminalFromChecklist.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Migrations\\20240629094333_RemoveShipAndTerminalFromChecklist.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Migrations\\20240629094333_RemoveShipAndTerminalFromChecklist.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Migrations\\20240629094333_RemoveShipAndTerminalFromChecklist.cs",
+              "RelativeToolTip": "TtcApi\\Migrations\\20240629094333_RemoveShipAndTerminalFromChecklist.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T09:43:34.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VeiligheidsChecklistRepository.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\VeiligheidsChecklistRepository.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Repository\\VeiligheidsChecklistRepository.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\VeiligheidsChecklistRepository.cs",
+              "RelativeToolTip": "TtcApi\\Repository\\VeiligheidsChecklistRepository.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAmwHoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:54:12.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TTCContext.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Data\\TTCContext.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Data\\TTCContext.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Data\\TTCContext.cs",
+              "RelativeToolTip": "TtcApi\\Data\\TTCContext.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:50:36.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Program.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Program.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Program.cs",
+              "RelativeToolTip": "TtcApi\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:46:29.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TtcApi\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAcwI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:18:46.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240629073839_AddIdentityAndUpdateModels.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Migrations\\20240629073839_AddIdentityAndUpdateModels.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Migrations\\20240629073839_AddIdentityAndUpdateModels.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Migrations\\20240629073839_AddIdentityAndUpdateModels.cs",
+              "RelativeToolTip": "TtcApi\\Migrations\\20240629073839_AddIdentityAndUpdateModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:38:39.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TerminalRegistrationDto.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Dtos\\TerminalRegistrationDto.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Dtos\\TerminalRegistrationDto.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Dtos\\TerminalRegistrationDto.cs",
+              "RelativeToolTip": "TtcApi\\Dtos\\TerminalRegistrationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:14:08.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShipRegistrationDto.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Dtos\\ShipRegistrationDto.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Dtos\\ShipRegistrationDto.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Dtos\\ShipRegistrationDto.cs",
+              "RelativeToolTip": "TtcApi\\Dtos\\ShipRegistrationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:13:47.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Models\\Ship.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Models\\Ship.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Models\\Ship.cs",
+              "RelativeToolTip": "TtcApi\\Models\\Ship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:55:07.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Terminal.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Models\\Terminal.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Models\\Terminal.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Models\\Terminal.cs",
+              "RelativeToolTip": "TtcApi\\Models\\Terminal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:55:13.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Dtos\\LoginDto.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "TtcApi\\Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:18:22.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TerminalController.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Controllers\\TerminalController.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Controllers\\TerminalController.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Controllers\\TerminalController.cs",
+              "RelativeToolTip": "TtcApi\\Controllers\\TerminalController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:29:42.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TerminalRepository.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\TerminalRepository.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Repository\\TerminalRepository.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\TerminalRepository.cs",
+              "RelativeToolTip": "TtcApi\\Repository\\TerminalRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAiwCYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:02:51.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Lading.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Models\\Lading.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Models\\Lading.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Models\\Lading.cs",
+              "RelativeToolTip": "TtcApi\\Models\\Lading.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:05:44.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StatusLading.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Models\\StatusLading.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Models\\StatusLading.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Models\\StatusLading.cs",
+              "RelativeToolTip": "TtcApi\\Models\\StatusLading.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:08:29.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IStatusLadingRepository.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\IStatusLadingRepository.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Repository\\IStatusLadingRepository.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\IStatusLadingRepository.cs",
+              "RelativeToolTip": "TtcApi\\Repository\\IStatusLadingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:15:25.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LadingRepository.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\LadingRepository.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Repository\\LadingRepository.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\LadingRepository.cs",
+              "RelativeToolTip": "TtcApi\\Repository\\LadingRepository.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAcwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:03:43.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ILadingRepository.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\ILadingRepository.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Repository\\ILadingRepository.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\ILadingRepository.cs",
+              "RelativeToolTip": "TtcApi\\Repository\\ILadingRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:53:41.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StatusLadingDto.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Dtos\\StatusLadingDto.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Dtos\\StatusLadingDto.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Dtos\\StatusLadingDto.cs",
+              "RelativeToolTip": "TtcApi\\Dtos\\StatusLadingDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:19:20.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StatusLadingRepository.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\StatusLadingRepository.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Repository\\StatusLadingRepository.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\StatusLadingRepository.cs",
+              "RelativeToolTip": "TtcApi\\Repository\\StatusLadingRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAcwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:03:50.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LadingDto.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Dtos\\LadingDto.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Dtos\\LadingDto.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Dtos\\LadingDto.cs",
+              "RelativeToolTip": "TtcApi\\Dtos\\LadingDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:31:44.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LadingController.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Controllers\\LadingController.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Controllers\\LadingController.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Controllers\\LadingController.cs",
+              "RelativeToolTip": "TtcApi\\Controllers\\LadingController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAiwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:41:33.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi backup\\TtcApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "..\\TtcApi backup\\TtcApi\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi backup\\TtcApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "..\\TtcApi backup\\TtcApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:29:28.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterTerminalDto.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Dtos\\RegisterTerminalDto.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Dtos\\RegisterTerminalDto.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Dtos\\RegisterTerminalDto.cs",
+              "RelativeToolTip": "TtcApi\\Dtos\\RegisterTerminalDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:37:17.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TtcApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:27:32.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterShipDto.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Dtos\\RegisterShipDto.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Dtos\\RegisterShipDto.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Dtos\\RegisterShipDto.cs",
+              "RelativeToolTip": "TtcApi\\Dtos\\RegisterShipDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:37:02.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TtcApi\\appsettings.json",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\appsettings.json",
+              "RelativeToolTip": "TtcApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T07:46:39.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ITerminalRepository.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\ITerminalRepository.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Repository\\ITerminalRepository.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\ITerminalRepository.cs",
+              "RelativeToolTip": "TtcApi\\Repository\\ITerminalRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:36:43.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ShipRepository.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\ShipRepository.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Repository\\ShipRepository.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\ShipRepository.cs",
+              "RelativeToolTip": "TtcApi\\Repository\\ShipRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:03:45.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "TtcApi\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\code\\c#\\TtcApi\\TtcApi\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "TtcApi\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:54:17.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
